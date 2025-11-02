@@ -19,7 +19,6 @@ EduBuddy is an AI-powered platform designed to help students **study smarter, no
 
 - **Frontend:** React, TypeScript, Vite, TailwindCSS
 - **Backend / AI:** Supabase Functions + OpenAI API (or any AI integration)
-- **Deployment:** Lovable.dev
 
 ---
 
